@@ -260,7 +260,6 @@ docker run -d --restart always --name github-runner \
   myoung34/github-runner:latest
 ```
 
-=======
 ## Create GitHub personal access token  ##
 
 Creating GitHub personal access token (PAT) for using by self-hosted runner make sure the following scopes are selected:
